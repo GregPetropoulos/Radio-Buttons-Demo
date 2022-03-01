@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Radio-Buttons-Demo/static/css/main.846be377.css",
+    "main.js": "/Radio-Buttons-Demo/static/js/main.7887b2e8.js",
+    "index.html": "/Radio-Buttons-Demo/index.html",
+    "main.846be377.css.map": "/Radio-Buttons-Demo/static/css/main.846be377.css.map",
+    "main.7887b2e8.js.map": "/Radio-Buttons-Demo/static/js/main.7887b2e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846be377.css",
+    "static/js/main.7887b2e8.js"
+  ]
+}
